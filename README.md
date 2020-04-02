@@ -1,6 +1,6 @@
 # toDoList-onHeroku
 
-Todo List is hosted on heroku
+TodoList App is hosted on heroku
 https://pptodolist.herokuapp.com/
 
 Each user can create new (his own) todo list, by providing list name after slash
